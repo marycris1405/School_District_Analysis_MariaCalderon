@@ -1,4 +1,4 @@
-# School_District_Analysis_MariaCalderon
+# School District Analysis
 
 ## Questions
 1. How is the district summary affected?
