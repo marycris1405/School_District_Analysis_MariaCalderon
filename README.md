@@ -10,6 +10,18 @@ Analyze Data on student funding and students' standardized test scores.
 # Insights
 This are the following insights with th
 
+<img width="960" alt="data-4-7-8-district_summary" src="https://user-images.githubusercontent.com/44789805/67728483-9f11a100-f9aa-11e9-8300-e7ccc1d49be2.png"> 
+
+<img width="960" alt="data-4-8-7-per_school_summary_format" src="https://user-images.githubusercontent.com/44789805/67728867-1dbb0e00-f9ac-11e9-877f-e941dec47184.png">
+
+<img width="960" alt="data-4-10-4-ninth_grade_reading_scores_df_formatted" src="https://user-images.githubusercontent.com/44789805/67728942-68d52100-f9ac-11e9-894d-7f592a298bf2.png">
+
+<img width="960" alt="data-4-11-4-spending-formatted" src="https://user-images.githubusercontent.com/44789805/67728982-93bf7500-f9ac-11e9-9efb-7ca89064d298.png">
+
+<img width="960" alt="data-4-12-4-size_summary_formatted" src="https://user-images.githubusercontent.com/44789805/67729014-b2257080-f9ac-11e9-96c1-4218a128c36d.png">
+
+<img width="960" alt="data-4-13-1-school_type_df" src="https://user-images.githubusercontent.com/44789805/67729041-c8333100-f9ac-11e9-90c1-c9b443f02109.png">
+
 ## Challenge
 
 It's discovered that the score averages for ninth grades form one high school are incorrect. The information needs to remove the math and reading scores for that high-school, but without removing those ninth-grade students from the analysis.
