@@ -60,8 +60,35 @@ The best approach for it is the following:
 * Remove the ninth-grade math and reading scores from Thomas High School.
 * Keep all other data associated with the ninth-grade students and Thomas High School intact. 
 
-### Observations
+### Questions
 1. How is the district summary affected?
 2. How is the school summary affected?
 3. How does removing the ninth graders' math and reading scores affect Thomas High School's performance, relative to other schools?
 4. How does removing the ninth-grade score affect the Math and Reading Scores by Grade, Scores by School Spenging, Scores by School Size, and Score by School Type?
+
+### Observations
+
+#### District Summary
+<img width="934" alt="Screen Shot 2019-10-31 at 9 22 26 PM" src="https://user-images.githubusercontent.com/44789805/67999775-d25a6700-fc1a-11e9-8b46-b9b36ebc8d04.png">
+
+
+#### Per School Summary
+<img width="1002" alt="Screen Shot 2019-10-31 at 9 23 17 PM" src="https://user-images.githubusercontent.com/44789805/67999800-e8682780-fc1a-11e9-8189-08cd29d63ede.png">
+
+#### Math Scores by Grades
+<img width="427" alt="Screen Shot 2019-10-31 at 9 24 19 PM" src="https://user-images.githubusercontent.com/44789805/67999810-f6b64380-fc1a-11e9-833a-e08ee035b9ae.png">
+
+
+#### Reading Scores by Grades
+<img width="427" alt="Screen Shot 2019-10-31 at 9 24 30 PM" src="https://user-images.githubusercontent.com/44789805/67999826-02096f00-fc1b-11e9-9c80-ad236992920a.png">
+
+#### Spending Ranges per Student in the Exams
+<img width="829" alt="Screen Shot 2019-10-31 at 9 25 07 PM" src="https://user-images.githubusercontent.com/44789805/67999839-0d5c9a80-fc1b-11e9-8249-2792b6fc2e2e.png">
+
+#### Relationships Between the Size of the School and the Scores
+<img width="764" alt="Screen Shot 2019-10-31 at 9 25 52 PM" src="https://user-images.githubusercontent.com/44789805/67999845-164d6c00-fc1b-11e9-934d-f450838c1793.png">
+
+#### Scores Depending the School Type
+<img width="719" alt="Screen Shot 2019-10-31 at 9 26 05 PM" src="https://user-images.githubusercontent.com/44789805/67999854-1fd6d400-fc1b-11e9-8168-c0b605986dd2.png">
+
+### Conclusions
