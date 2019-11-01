@@ -30,24 +30,26 @@ From the reading scores we can see the average score that each school got depend
 #### Spending Ranges per Students in the Exams
 <img width="960" alt="data-4-11-4-spending-formatted" src="https://user-images.githubusercontent.com/44789805/67728982-93bf7500-f9ac-11e9-9efb-7ca89064d298.png">
 
-In the following image we want to understand the relationship between the spending ranges per studnents and the results with the exam. 
-The school with less spending per student have the higher passing scores. 
+In the following image we want to understand the relationship between the spending ranges per students and the results with the exam. 
+The school with less spending per student has the higher passing scores. 
 
 #### Relationship Between the Size of the School and the Scores
 <img width="960" alt="data-4-12-4-size_summary_formatted" src="https://user-images.githubusercontent.com/44789805/67729014-b2257080-f9ac-11e9-96c1-4218a128c36d.png">
 
 We want to understand if there is any relationship between the passing test on the school size. The small and medium exam has the higher rate (95%) of passing the exam. 
-The main reason could be the less studnets have one class the higher chance that students will concentrate better and present a better exam.
+The main reason could be the less students have one class the higher chance that students will concentrate better and present a better exam.
 
 #### Scores Depending the School Type
 <img width="960" alt="data-4-13-1-school_type_df" src="https://user-images.githubusercontent.com/44789805/67729041-c8333100-f9ac-11e9-90c1-c9b443f02109.png">
 
 We want to understand as well if the type of school could affect the average score of students.
 By the image provided the higher rate of passing exam (95%) has the charter type school.
-Charter school usually have are accountable for academic results and they have to meet performance goal this main be the main reason that they have higher passing rate.
+Charter school usually are accountable for academic results and they have to meet performance goal this main be the main reason that they have higher passing rate.
 
 ### Conclusions
-We the analysis we 
+We the analysis we understand better the behavior of exams depending the type, size and grade. 
+In conclusion we understand that Charter School Type have the higher passing grades, this is because Charter School need to present results otherwise the school will be close.
+Smaller classroom could help the student to concentrate better in result provide a better exam result.
 
 ## Challenge
 
