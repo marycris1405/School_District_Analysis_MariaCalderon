@@ -84,12 +84,12 @@ The main information such as the Total Schools and Total Students remain the sam
 The information remains the same, just Thomas High School should present some changes.
 
 #### Math Scores by Grades
-<img width="427" alt="Screen Shot 2019-10-31 at 9 24 19 PM" src="https://user-images.githubusercontent.com/44789805/67999810-f6b64380-fc1a-11e9-833a-e08ee035b9ae.png">
+<img width="342" alt="Screen Shot 2019-10-31 at 10 48 25 PM" src="https://user-images.githubusercontent.com/44789805/68001110-a9dd6780-fc30-11e9-859e-be009ce7af66.png">
 
 
 
 #### Reading Scores by Grades
-<img width="427" alt="Screen Shot 2019-10-31 at 9 24 30 PM" src="https://user-images.githubusercontent.com/44789805/67999826-02096f00-fc1b-11e9-9c80-ad236992920a.png">
+<img width="342" alt="Screen Shot 2019-10-31 at 10 49 05 PM" src="https://user-images.githubusercontent.com/44789805/68001133-c11c5500-fc30-11e9-8051-84074817eb17.png">
 
 #### Spending Ranges per Student in the Exams
 <img width="829" alt="Screen Shot 2019-10-31 at 9 25 07 PM" src="https://user-images.githubusercontent.com/44789805/67999839-0d5c9a80-fc1b-11e9-8249-2792b6fc2e2e.png">
