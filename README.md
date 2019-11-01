@@ -79,7 +79,7 @@ The main information such as the Total Schools and Total Students remain the sam
 * Overall Passing scores now is 79
 
 #### Per School Summary
-<img width="1002" alt="Screen Shot 2019-10-31 at 9 23 17 PM" src="https://user-images.githubusercontent.com/44789805/67999800-e8682780-fc1a-11e9-8189-08cd29d63ede.png">
+<img width="788" alt="Screen Shot 2019-10-31 at 10 46 07 PM" src="https://user-images.githubusercontent.com/44789805/68001035-5a973700-fc30-11e9-93a8-98c0c9134770.png">
 
 The information remains the same, just Thomas High School should present some changes.
 
