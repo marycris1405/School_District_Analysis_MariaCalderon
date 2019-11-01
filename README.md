@@ -71,12 +71,20 @@ The best approach for it is the following:
 #### District Summary
 <img width="934" alt="Screen Shot 2019-10-31 at 9 22 26 PM" src="https://user-images.githubusercontent.com/44789805/67999775-d25a6700-fc1a-11e9-8b46-b9b36ebc8d04.png">
 
+The main information such as the Total Schools and Total Students remain the same the difference we see are:
+* Average Math Score that decrease from 79 to 78.9
+* % Passing Math decrease from 75 to 74
+* % Passing Reading decrease from 86 to 85
+* Overall Passing scores now is 79
 
 #### Per School Summary
 <img width="1002" alt="Screen Shot 2019-10-31 at 9 23 17 PM" src="https://user-images.githubusercontent.com/44789805/67999800-e8682780-fc1a-11e9-8189-08cd29d63ede.png">
 
+The information remains the same, just Thomas High School should present some changes.
+
 #### Math Scores by Grades
 <img width="427" alt="Screen Shot 2019-10-31 at 9 24 19 PM" src="https://user-images.githubusercontent.com/44789805/67999810-f6b64380-fc1a-11e9-833a-e08ee035b9ae.png">
+
 
 
 #### Reading Scores by Grades
@@ -85,10 +93,18 @@ The best approach for it is the following:
 #### Spending Ranges per Student in the Exams
 <img width="829" alt="Screen Shot 2019-10-31 at 9 25 07 PM" src="https://user-images.githubusercontent.com/44789805/67999839-0d5c9a80-fc1b-11e9-8249-2792b6fc2e2e.png">
 
+Spending information remains the same.
+
 #### Relationships Between the Size of the School and the Scores
 <img width="764" alt="Screen Shot 2019-10-31 at 9 25 52 PM" src="https://user-images.githubusercontent.com/44789805/67999845-164d6c00-fc1b-11e9-934d-f450838c1793.png">
+
+With the changes made in Thomas High School the Passing Score of Medium Size School Decrease from 95% to 90%.
 
 #### Scores Depending the School Type
 <img width="719" alt="Screen Shot 2019-10-31 at 9 26 05 PM" src="https://user-images.githubusercontent.com/44789805/67999854-1fd6d400-fc1b-11e9-8168-c0b605986dd2.png">
 
+The percentage of overall passing of the Charter School Type decrease from 95% to 92%.
+
 ### Conclusions
+
+The changes made to the Thomas High School change the results of the Passing Exam. By removing the information just the scores should be affected, the rest of the infomation such as the Speding per Students and the School Size have remain the same. 
