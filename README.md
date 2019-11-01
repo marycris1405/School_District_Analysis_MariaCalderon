@@ -21,12 +21,12 @@ The District summary can provide us information general information as the Total
 General information by school and the number of students that took the exams.
 
 #### Math Scores by Grades
-<<img width="423" alt="MathScores" src="https://user-images.githubusercontent.com/44789805/68000549-8e715d00-fc2e-11e9-9138-835334231cb8.png">
+<img width="433" alt="Screen Shot 2019-10-31 at 10 37 25 PM" src="https://user-images.githubusercontent.com/44789805/68000711-25d6b000-fc2f-11e9-8827-45237a040efe.png">
 
 From the reading scores we can see the average score that each school got depending their grade.
 
 #### Reading Scores by Grades
-<img width="423" alt="ReadingScores" src="https://user-images.githubusercontent.com/44789805/68000565-9d580f80-fc2e-11e9-8f6c-451ed242bf7a.png">
+<img width="433" alt="Screen Shot 2019-10-31 at 10 37 35 PM" src="https://user-images.githubusercontent.com/44789805/68000730-30914500-fc2f-11e9-8a54-c8b784d07d6c.png">
 
 #### Spending Ranges per Students in the Exams
 <img width="960" alt="data-4-11-4-spending-formatted" src="https://user-images.githubusercontent.com/44789805/67728982-93bf7500-f9ac-11e9-9efb-7ca89064d298.png">
