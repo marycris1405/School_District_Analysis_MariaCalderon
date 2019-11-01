@@ -81,15 +81,21 @@ The main information such as the Total Schools and Total Students remain the sam
 #### Per School Summary
 <img width="788" alt="Screen Shot 2019-10-31 at 10 46 07 PM" src="https://user-images.githubusercontent.com/44789805/68001035-5a973700-fc30-11e9-93a8-98c0c9134770.png">
 
-The information remains the same, just Thomas High School should present some changes.
+Just Thomas High School present some changes such as:
+* % Passing Math form 93.3% to 67.0%
+* % Passing Reading from 97.3% to 70.0%
+* % Overall Passing from 95.3% to 68.3% 
 
 #### Math Scores by Grades
 <img width="342" alt="Screen Shot 2019-10-31 at 10 48 25 PM" src="https://user-images.githubusercontent.com/44789805/68001110-a9dd6780-fc30-11e9-859e-be009ce7af66.png">
 
+The most notable change is the score for 9th grade of Thomas High School changed its actual score to a NaN.
 
 
 #### Reading Scores by Grades
 <img width="342" alt="Screen Shot 2019-10-31 at 10 49 05 PM" src="https://user-images.githubusercontent.com/44789805/68001133-c11c5500-fc30-11e9-8051-84074817eb17.png">
+
+The most notable change is the score for 9th grade of Thomas High School changed its actual score to a NaN.
 
 #### Spending Ranges per Student in the Exams
 <img width="829" alt="Screen Shot 2019-10-31 at 9 25 07 PM" src="https://user-images.githubusercontent.com/44789805/67999839-0d5c9a80-fc1b-11e9-8249-2792b6fc2e2e.png">
