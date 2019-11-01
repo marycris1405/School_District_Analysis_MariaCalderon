@@ -16,7 +16,7 @@ Here are the following discoveries on the information provide of school and stud
 The District summary can provide us information general information as the Total Number of School, Total Number of Students, Average Scores and the Percentage of the students passing the exam. 
 
 #### Per School Summary
-<img width="960" alt="data-4-8-7-per_school_summary_format" src="https://user-images.githubusercontent.com/44789805/67728867-1dbb0e00-f9ac-11e9-877f-e941dec47184.png">
+<img width="797" alt="Screen Shot 2019-10-31 at 10 42 12 PM" src="https://user-images.githubusercontent.com/44789805/68000872-cb8a1f00-fc2f-11e9-9726-1fb30540ff71.png">
 
 General information by school and the number of students that took the exams.
 
